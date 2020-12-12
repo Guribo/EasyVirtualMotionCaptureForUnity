@@ -1,0 +1,16 @@
+{
+    "name": "Plugins.EVMC4U",
+    "references": [
+        "Plugins.uOSC",
+        "VRM",
+        "DepthFirstScheduler"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
